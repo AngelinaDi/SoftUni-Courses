@@ -1,2 +1,2 @@
-# SoftUni-Cpurses
+# SoftUni-Courses
 Courses from my education @ SoftUni.
